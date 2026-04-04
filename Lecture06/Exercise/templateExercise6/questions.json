@@ -1,9 +1,466 @@
 [
   {
+    "id": 1,
     "category": "Math",
-    "question": "What is 2 + 2?",
-    "options": [2, 3, 4, 5],
-    "answer": 4,
-    "difficulty": "easy"
+    "question": "What is 5 + 7?",
+    "options": [
+      {
+        "id": 1,
+        "answer": 10,
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": 11,
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": 12,
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": 13,
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Earth",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Mars",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "Jupiter",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Venus",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "category": "History",
+    "question": "Who was the first president of the USA?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Abraham Lincoln",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "George Washington",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "John Adams",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Thomas Jefferson",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "category": "Geography",
+    "question": "What is the capital of France?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Berlin",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Madrid",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Paris",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": "Rome",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "question": "How many players are on a soccer team on the field?",
+    "options": [
+      {
+        "id": 1,
+        "answer": 9,
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": 10,
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": 11,
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": 12,
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "category": "Math",
+    "question": "What is 12 × 8?",
+    "options": [
+      {
+        "id": 1,
+        "answer": 96,
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "answer": 88,
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": 104,
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": 92,
+        "isCorrect": false
+      }
+    ],
+    "answerId": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "category": "Science",
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Nitrogen",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Carbon Dioxide",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": "Hydrogen",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "category": "History",
+    "question": "In which year did World War II end?",
+    "options": [
+      {
+        "id": 1,
+        "answer": 1943,
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": 1945,
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": 1947,
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": 1950,
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "category": "Geography",
+    "question": "Which is the largest ocean on Earth?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Atlantic Ocean",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Indian Ocean",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Pacific Ocean",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": "Arctic Ocean",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "category": "Technology",
+    "question": "What does CPU stand for?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Central Processing Unit",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "answer": "Computer Personal Unit",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Central Power Unit",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Control Processing Unit",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "category": "Math",
+    "question": "What is the square root of 144?",
+    "options": [
+      {
+        "id": 1,
+        "answer": 10,
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": 11,
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": 12,
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": 13,
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "category": "Math",
+    "question": "Solve: 3x + 6 = 15",
+    "options": [
+      {
+        "id": 1,
+        "answer": 2,
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": 3,
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": 4,
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": 5,
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Ag",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Au",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "Gd",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Go",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "category": "Geography",
+    "question": "Which country has the most population?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "USA",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "India",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "China",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Russia",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "category": "Math",
+    "question": "What is the derivative of x^2?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "x",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "2x",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "x^2",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "2",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "category": "Physics",
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Volt",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Ampere",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Ohm",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": "Watt",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 3
   }
 ]
