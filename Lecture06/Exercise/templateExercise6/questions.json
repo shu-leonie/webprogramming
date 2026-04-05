@@ -6,22 +6,22 @@
     "options": [
       {
         "id": 1,
-        "answer": 10,
+        "answer": "10",
         "isCorrect": false
       },
       {
         "id": 2,
-        "answer": 11,
+        "answer": "11",
         "isCorrect": false
       },
       {
         "id": 3,
-        "answer": 12,
+        "answer": "12",
         "isCorrect": true
       },
       {
         "id": 4,
-        "answer": 13,
+        "answer": "13",
         "isCorrect": false
       }
     ],
@@ -122,22 +122,22 @@
     "options": [
       {
         "id": 1,
-        "answer": 9,
+        "answer": "9",
         "isCorrect": false
       },
       {
         "id": 2,
-        "answer": 10,
+        "answer": "10",
         "isCorrect": false
       },
       {
         "id": 3,
-        "answer": 11,
+        "answer": "11",
         "isCorrect": true
       },
       {
         "id": 4,
-        "answer": 12,
+        "answer": "12",
         "isCorrect": false
       }
     ],
@@ -151,22 +151,22 @@
     "options": [
       {
         "id": 1,
-        "answer": 96,
+        "answer": "96",
         "isCorrect": true
       },
       {
         "id": 2,
-        "answer": 88,
+        "answer": "88",
         "isCorrect": false
       },
       {
         "id": 3,
-        "answer": 104,
+        "answer": "104",
         "isCorrect": false
       },
       {
         "id": 4,
-        "answer": 92,
+        "answer": "92",
         "isCorrect": false
       }
     ],
@@ -209,22 +209,22 @@
     "options": [
       {
         "id": 1,
-        "answer": 1943,
+        "answer": "1943",
         "isCorrect": false
       },
       {
         "id": 2,
-        "answer": 1945,
+        "answer": "1945",
         "isCorrect": true
       },
       {
         "id": 3,
-        "answer": 1947,
+        "answer": "1947",
         "isCorrect": false
       },
       {
         "id": 4,
-        "answer": 1950,
+        "answer": "1950",
         "isCorrect": false
       }
     ],
@@ -296,22 +296,22 @@
     "options": [
       {
         "id": 1,
-        "answer": 10,
+        "answer": "10",
         "isCorrect": false
       },
       {
         "id": 2,
-        "answer": 11,
+        "answer": "11",
         "isCorrect": false
       },
       {
         "id": 3,
-        "answer": 12,
+        "answer": "12",
         "isCorrect": true
       },
       {
         "id": 4,
-        "answer": 13,
+        "answer": "13",
         "isCorrect": false
       }
     ],
@@ -325,22 +325,22 @@
     "options": [
       {
         "id": 1,
-        "answer": 2,
+        "answer": "2",
         "isCorrect": false
       },
       {
         "id": 2,
-        "answer": 3,
+        "answer": "3",
         "isCorrect": true
       },
       {
         "id": 3,
-        "answer": 4,
+        "answer": "4",
         "isCorrect": false
       },
       {
         "id": 4,
-        "answer": 5,
+        "answer": "5",
         "isCorrect": false
       }
     ],
@@ -462,5 +462,411 @@
     ],
     "answerId": 3,
     "difficulty": 3
+  },
+  {
+    "id": 17,
+    "category": "General Knowledge",
+    "question": "How many continents are there?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "5",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "6",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "7",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": "8",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "category": "Biology",
+    "question": "What organ pumps blood through the body?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Liver",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Heart",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "Brain",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Lungs",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "category": "Physics",
+    "question": "What force keeps us on the ground?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Magnetism",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Gravity",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "Friction",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Electricity",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "category": "Chemistry",
+    "question": "What is the pH of pure water?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "5",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "6",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "7",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": "8",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "category": "Astronomy",
+    "question": "What galaxy do we live in?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Andromeda",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Milky Way",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "Whirlpool",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Sombrero",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "category": "Literature",
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Charles Dickens",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "William Shakespeare",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "Mark Twain",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Jane Austen",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "category": "Music",
+    "question": "How many notes are in a standard musical scale?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "6",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "7",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "8",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "9",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "category": "Art",
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Van Gogh",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Picasso",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Leonardo da Vinci",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": "Michelangelo",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "category": "History",
+    "question": "Who was the leader of Nazi Germany?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Hitler",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "answer": "Stalin",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Churchill",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Roosevelt",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "category": "Technology",
+    "question": "What does HTML stand for?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Hyper Trainer Marking Language",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "HyperText Markup Language",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "HighText Machine Language",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "HyperText Markdown Language",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "category": "Physics",
+    "question": "What is the speed of light in vacuum (approx.)?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "300,000 km/s",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "answer": "150,000 km/s",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "1,000 km/s",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "30,000 km/s",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "category": "Biology",
+    "question": "What is the basic unit of life?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "Atom",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Cell",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "Molecule",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "Organ",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "category": "Chemistry",
+    "question": "What is the chemical formula of table salt?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "NaCl",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "answer": "KCl",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Na2CO3",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "HCl",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "category": "Math",
+    "question": "What is the value of π (pi) rounded to 2 decimal places?",
+    "options": [
+      {
+        "id": 1,
+        "answer": "3.12",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "3.14",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "answer": "3.16",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "3.18",
+        "isCorrect": false
+      }
+    ],
+    "answerId": 2,
+    "difficulty": 2
   }
 ]
